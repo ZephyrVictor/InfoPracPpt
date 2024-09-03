@@ -1,4 +1,4 @@
 \beamer@sectionintoc {1}{总体架构}{3}{0}{1}
-\beamer@sectionintoc {2}{交易}{4}{0}{2}
+\beamer@sectionintoc {2}{项目场景}{4}{0}{2}
 \beamer@sectionintoc {3}{需求分析}{7}{0}{3}
 \beamer@sectionintoc {4}{模块设计}{9}{0}{4}

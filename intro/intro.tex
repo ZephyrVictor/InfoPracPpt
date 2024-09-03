@@ -4,6 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{ctex}  % 支持中文
 \usepackage{graphicx} % 插入图片的包
+\usepackage{mdframed}
 
 \usetheme{Boadilla}  % 主题
 \usecolortheme{default}  % 主题的颜色
@@ -47,7 +48,7 @@
         \end{itemize}
     \end{frame}
 
-    \section{交易}
+    \section{项目场景}
     \begin{frame}{交易}
         \textbf{方式}
         \begin{enumerate}
@@ -224,8 +225,27 @@
     
 
     \begin{frame}{双签名与SET Protocol}
+
+            \begin{block}{前置要求}
+                先审核订单，确保真实性，然后再执行支付操作，并将转账信息写入数据库，更新双方对应银行卡的余额信息。
+            \end{block}
         
+        \includegraphics[width=1\textwidth]{SETprotocol.png}
+
     \end{frame}
 
+
+    \begin{frame}{简单业务数据流}
+        \includegraphics[width=0.8\textwidth]{summary.png}
+    \end{frame}
+
+    \begin{frame}{技术栈}
+        \begin{itemize}
+            \item 前端:vue+elementui+eleadmin
+            \item 后端:flask (serve as an api) + SQLalchemy
+            \item 数据库:mysql
+            \item 加密库:pycryptodome
+        \end{itemize}
+    \end{frame}
 
 \end{document}

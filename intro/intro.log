@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  3 SEP 2024 18:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  3 SEP 2024 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -695,126 +695,230 @@ File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
 File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
 )) (d:/latex/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (d:/latex/texlive/2023/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (d:/latex/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+) (d:/latex/texlive/2023/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+ (d:/latex/texlive/2023/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count345
+Package zref Info: New property: abspage on input line 65.
+) (d:/latex/texlive/2023/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip66
+\c@mdf@globalstyle@cnt=\count346
+\mdf@skipabove@length=\skip67
+\mdf@skipbelow@length=\skip68
+\mdf@leftmargin@length=\skip69
+\mdf@rightmargin@length=\skip70
+\mdf@innerleftmargin@length=\skip71
+\mdf@innerrightmargin@length=\skip72
+\mdf@innertopmargin@length=\skip73
+\mdf@innerbottommargin@length=\skip74
+\mdf@splittopskip@length=\skip75
+\mdf@splitbottomskip@length=\skip76
+\mdf@outermargin@length=\skip77
+\mdf@innermargin@length=\skip78
+\mdf@linewidth@length=\skip79
+\mdf@innerlinewidth@length=\skip80
+\mdf@middlelinewidth@length=\skip81
+\mdf@outerlinewidth@length=\skip82
+\mdf@roundcorner@length=\skip83
+\mdf@footenotedistance@length=\skip84
+\mdf@userdefinedwidth@length=\skip85
+\mdf@needspace@length=\skip86
+\mdf@frametitleaboveskip@length=\skip87
+\mdf@frametitlebelowskip@length=\skip88
+\mdf@frametitlerulewidth@length=\skip89
+\mdf@frametitleleftmargin@length=\skip90
+\mdf@frametitlerightmargin@length=\skip91
+\mdf@shadowsize@length=\skip92
+\mdf@extratopheight@length=\skip93
+\mdf@subtitleabovelinewidth@length=\skip94
+\mdf@subtitlebelowlinewidth@length=\skip95
+\mdf@subtitleaboveskip@length=\skip96
+\mdf@subtitlebelowskip@length=\skip97
+\mdf@subtitleinneraboveskip@length=\skip98
+\mdf@subtitleinnerbelowskip@length=\skip99
+\mdf@subsubtitleabovelinewidth@length=\skip100
+\mdf@subsubtitlebelowlinewidth@length=\skip101
+\mdf@subsubtitleaboveskip@length=\skip102
+\mdf@subsubtitlebelowskip@length=\skip103
+\mdf@subsubtitleinneraboveskip@length=\skip104
+\mdf@subsubtitleinnerbelowskip@length=\skip105
+ (d:/latex/texlive/2023/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box79
+\mdf@footnotebox=\box80
+\mdf@splitbox@one=\box81
+\mdf@splitbox@two=\box82
+\mdf@splitbox@save=\box83
+\mdfsplitboxwidth=\skip106
+\mdfsplitboxtotalwidth=\skip107
+\mdfsplitboxheight=\skip108
+\mdfsplitboxdepth=\skip109
+\mdfsplitboxtotalheight=\skip110
+\mdfframetitleboxwidth=\skip111
+\mdfframetitleboxtotalwidth=\skip112
+\mdfframetitleboxheight=\skip113
+\mdfframetitleboxdepth=\skip114
+\mdfframetitleboxtotalheight=\skip115
+\mdffootnoteboxwidth=\skip116
+\mdffootnoteboxtotalwidth=\skip117
+\mdffootnoteboxheight=\skip118
+\mdffootnoteboxdepth=\skip119
+\mdffootnoteboxtotalheight=\skip120
+\mdftotallinewidth=\skip121
+\mdfboundingboxwidth=\skip122
+\mdfboundingboxtotalwidth=\skip123
+\mdfboundingboxheight=\skip124
+\mdfboundingboxdepth=\skip125
+\mdfboundingboxtotalheight=\skip126
+\mdf@freevspace@length=\skip127
+\mdf@horizontalwidthofbox@length=\skip128
+\mdf@verticalmarginwhole@length=\skip129
+\mdf@horizontalspaceofbox=\skip130
+\mdfsubtitleheight=\skip131
+\mdfsubsubtitleheight=\skip132
+\c@mdfcountframes=\count347
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- failed******
+
+\mdf@envdepth=\count348
+\c@mdf@env@i=\count349
+\c@mdf@env@ii=\count350
+\c@mdf@zref@counter=\count351
+Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (d:/latex/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty (d:/latex/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty) (d:/latex/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (d:/latex/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty) (d:/latex/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 12.
+(hyperref)                removing `\<let>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@halignto' on input line 12.
+(hyperref)                removing `\@halignto' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 12.
+(hyperref)                removing `\hbox' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 12.
+(hyperref)                removing `math shift' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 12.
+(hyperref)                removing `\<let>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@acol' on input line 12.
+(hyperref)                removing `\@acol' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 12.
+(hyperref)                removing `\<def>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@preamble' on input line 12.
+(hyperref)                removing `\@preamble' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 12.
+(hyperref)                removing `\<let>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@classz' on input line 12.
+(hyperref)                removing `\@classz' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@acol' on input line 12.
+(hyperref)                removing `\@acol' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 12.
+(hyperref)                removing `\<def>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@preamble' on input line 12.
+(hyperref)                removing `\@preamble' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@acol' on input line 12.
+(hyperref)                removing `\@acol' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 12.
+(hyperref)                removing `\<def>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@preamble' on input line 12.
+(hyperref)                removing `\@preamble' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 12.
+(hyperref)                removing `\<let>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@classiv' on input line 12.
+(hyperref)                removing `\@classiv' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 12.
+(hyperref)                removing `\<def>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@preamble' on input line 12.
+(hyperref)                removing `\@preamble' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 12.
+(hyperref)                removing `\<let>-command' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 12.
+(hyperref)                removing `\\' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@tabularcr' on input line 12.
+(hyperref)                removing `\@tabularcr' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 12.
+(hyperref)                removing `\mathsurround' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 12.
+(hyperref)                removing `\z@' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 12.
+(hyperref)                removing `\@ifnextchar' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 12.
+(hyperref)                removing `\\' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 12.
+(hyperref)                removing `\\' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\crcr' on input line 12.
+(hyperref)                removing `\crcr' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 12.
+(hyperref)                removing `math shift' on input line 13.
 
 (d:/latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 File: UTF8.enc 2021/10/16 4.8.5
@@ -823,88 +927,88 @@ File: UTF8.chr 2021/10/16 4.8.5
 ) (./intro.aux)
 \openout1 = `intro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -942,16 +1046,16 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (d:/latex/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count345
+\scratchcounter=\count352
 \scratchdimen=\dimen297
-\scratchbox=\box79
-\nofMPsegments=\count346
-\nofMParguments=\count347
+\scratchbox=\box84
+\nofMPsegments=\count353
+\nofMParguments=\count354
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count348
+\MPscratchCnt=\count355
 \MPscratchDim=\dimen298
-\MPnumerator=\count349
-\makeMPintoPDFobject=\count350
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
 \everyMPtoPDFconversion=\toks48
 ) (d:/latex/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -959,64 +1063,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (d:/latex/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
  (./intro.out) (./intro.out)
 \@outlinefile=\write5
 \openout5 = `intro.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 15.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 16.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 15.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 15.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 15.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 15.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 15.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 15.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 15.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 15.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 15.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 15.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 15.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 15.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 15.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 15.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 15.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 15.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 15.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 16.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 15.
+(Font)              `pureletters' in the math version `normal' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 15.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 16.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 15.
+(Font)              `pureletters' in the math version `bold' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 15.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 15.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 16.
  (d:/latex/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (d:/latex/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1032,19 +1136,19 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (d:/latex/texlive/2023/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2022/07/14 v2.5.10 Chinese translation for theorem name (CTEX)
 ) (./intro.nav)
-LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 15.
+LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 16.
  (d:/latex/texlive/2023/texmf-dist/tex/latex/zhmetrics/c70zhhei.fd
 File: c70zhhei.fd 2009/09/23 4.8.2
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
  (d:/latex/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (d:/latex/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 19.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 20.
  (d:/latex/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) (d:/latex/texlive/2023/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
@@ -1054,7 +1158,7 @@ File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfT
 {d:/latex/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./intro.toc) [2
 
 ]
-Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle (quanjiao) on input line 48.
+Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle (quanjiao) on input line 49.
  [3
 
 ] [4
@@ -1065,7 +1169,7 @@ Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle
 <module.png, id=282, 3737.965pt x 2340.745pt>
 File: module.png Graphic file (type png)
 <use module.png>
-Package pdftex.def Info: module.png  used on input line 79.
+Package pdftex.def Info: module.png  used on input line 80.
 (pdftex.def)             Requested size: 342.30074pt x 214.33679pt.
  [6
 
@@ -1079,7 +1183,7 @@ Package pdftex.def Info: module.png  used on input line 79.
 <newsqe.png, id=412, 588.39825pt x 490.2315pt>
 File: newsqe.png Graphic file (type png)
 <use newsqe.png>
-Package pdftex.def Info: newsqe.png  used on input line 133.
+Package pdftex.def Info: newsqe.png  used on input line 134.
 (pdftex.def)             Requested size: 273.84163pt x 228.15726pt.
  [10
 
@@ -1093,10 +1197,10 @@ Package pdftex.def Info: newsqe.png  used on input line 133.
 <bank.png, id=531, 643.203pt x 454.0965pt>
 File: bank.png Graphic file (type png)
 <use bank.png>
-Package pdftex.def Info: bank.png  used on input line 165.
+Package pdftex.def Info: bank.png  used on input line 166.
 (pdftex.def)             Requested size: 342.30074pt x 241.66083pt.
 
-Overfull \vbox (5.05469pt too high) detected at line 165
+Overfull \vbox (5.05469pt too high) detected at line 166
  []
 
 [14
@@ -1111,7 +1215,23 @@ Overfull \vbox (5.05469pt too high) detected at line 165
 
 ] [19
 
-] [20
+]
+<SETprotocol.png, id=719, 3778.115pt x 1288.815pt>
+File: SETprotocol.png Graphic file (type png)
+<use SETprotocol.png>
+Package pdftex.def Info: SETprotocol.png  used on input line 235.
+(pdftex.def)             Requested size: 342.30074pt x 116.75531pt.
+ [20
+
+ <./SETprotocol.png>]
+<summary.png, id=747, 3737.965pt x 2894.815pt>
+File: summary.png Graphic file (type png)
+<use summary.png>
+Package pdftex.def Info: summary.png  used on input line 240.
+(pdftex.def)             Requested size: 273.84163pt x 212.06624pt.
+ [21
+
+ <./summary.png>] [22
 
 ]
 \tf@nav=\write6
@@ -1125,21 +1245,21 @@ Overfull \vbox (5.05469pt too high) detected at line 165
 
  (./intro.aux)
 Package rerunfilecheck Info: File `intro.out' has not changed.
-(rerunfilecheck)             Checksum: F049226956A8C3897D0424C0AD16097A;284.
+(rerunfilecheck)             Checksum: C8D933137A6DCD208AC65D790D6C640D;300.
  ) 
 Here is how much of TeX's memory you used:
- 26686 strings out of 476025
- 528650 string characters out of 5791020
+ 27615 strings out of 476025
+ 548334 string characters out of 5791020
  1874382 words of memory out of 5000000
- 46215 multiletter control sequences out of 15000+600000
- 568149 words of font info for 215 fonts, out of 8000000 for 9000
+ 47108 multiletter control sequences out of 15000+600000
+ 570039 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,732b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb><d:/latex/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><d:/latex/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><d:/latex/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb><d:/latex/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on intro.pdf (20 pages, 579791 bytes).
+Output written on intro.pdf (22 pages, 829774 bytes).
 PDF statistics:
- 978 PDF objects out of 1000 (max. 8388607)
- 779 compressed objects within 8 object streams
- 45 named destinations out of 1000 (max. 500000)
- 418 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1050 PDF objects out of 1200 (max. 8388607)
+ 837 compressed objects within 9 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 470 words of extra memory for PDF output out of 10000 (max. 10000000)
 
